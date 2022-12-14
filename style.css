@@ -97,7 +97,7 @@ p{
     
     .toggle{
         align-self: center;
-        background-image: url('./assets/images/icon-menu.svg');
+        background-image: url("./assets/images/icon-menu.svg");
         background-repeat: no-repeat;
         cursor: pointer;
         display: block;
